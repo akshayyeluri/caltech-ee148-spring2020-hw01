@@ -1,3 +1,7 @@
 RedLights2011_Medium/
 *.swp
 .DS_Store
+*.png
+*.pdf
+*.tex
+
