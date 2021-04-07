@@ -4,4 +4,5 @@ RedLights2011_Medium/
 *.png
 *.pdf
 *.tex
+.ipynb_checkpoints/
 
