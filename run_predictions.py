@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import matplotlib.patches as patches
 
 # set the path to the downloaded data: 
-data_path = './RedLights2011_Medium'
+data_path = '../RedLights2011_Medium'
 
 # set a path for saving predictions: 
 preds_path = './hw01_preds' 
